@@ -1,8 +1,9 @@
-pandas 
+streamlit
+pandas
 numpy
 scikit-learn
-streamlit
-matplotlib
-seaborn
 altair
+joblib
+
+
 
